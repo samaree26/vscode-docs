@@ -150,3 +150,8 @@ IntelliSense is just one of VS Code's powerful features. Read on to learn more:
 
 **A:** This issue is caused by missing Typings files in JavaScript. You can learn how to solve this issue in the [JavaScript language topic](/docs/languages/javascript.md#intellisense). For other languages, please consult the extension's documentation.
 
+intalizing of update 1/10
+username 5g4589
+password ****************
+
+
